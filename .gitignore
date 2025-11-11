@@ -1,2 +1,7 @@
 *.pub
 eval*
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
